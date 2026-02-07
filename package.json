@@ -1,0 +1,7 @@
+{
+  "name": "node-docker-dev",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  }
+}
